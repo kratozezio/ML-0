@@ -1,0 +1,12 @@
+17.01.23
+
+	1. Learnt about DVC Links
+	2. Learnt and implemented a few feature selection methods in sklearn
+	3. Learnt about the Naive Bayes Classifier
+
+
+18.01.23
+
+	1. Implement Naive Bayes Classifier
+	2. Learn more feature selection methods
+	3. Continue with ML-0
